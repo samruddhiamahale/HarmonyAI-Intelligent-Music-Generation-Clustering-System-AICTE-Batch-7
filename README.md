@@ -5,28 +5,28 @@ This project demonstrates practical implementation of AI in the creative music d
 
 🚀 Features
 
-🎧 AI Music Generation
-Mood-based music concept generation
-Genre-based music idea creation
-AI-powered song remix
-Full song lyrics generation
-Automatic song title generator
-Adjustable creativity level (temperature control)
+🎧 AI Music Generation:
+1. Mood-based music concept generation
+2. Genre-based music idea creation
+3. AI-powered song remix
+4. Full song lyrics generation
+5. Automatic song title generator
+6. Adjustable creativity level (temperature control)
 
 📊 Machine Learning
-K-Means clustering of songs based on audio features
-Cluster-based music grouping
-Intelligent song recommendation system
+1. K-Means clustering of songs based on audio features
+2. Cluster-based music grouping
+3. Intelligent song recommendation system
 
 🌍 Additional Features
-Trending Top 50 songs
-Interactive Streamlit dashboard
-History tracking of generated outputs
+1. Trending Top 50 songs
+2. Interactive Streamlit dashboard
+3. History tracking of generated outputs
 
 🧠 Technologies Used
-Python
-Streamlit (Web Framework)
-Google Gemini API (Generative AI)
-Scikit-learn (Machine Learning)
-Pandas (Data Processing)
-Matplotlib (Visualization)
+1. Python
+2. Streamlit (Web Framework)
+3. Google Gemini API (Generative AI)
+4. Scikit-learn (Machine Learning)
+5. Pandas (Data Processing)
+6. Matplotlib (Visualization)
